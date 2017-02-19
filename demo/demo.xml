@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record model="liga_drinks.location" id="location0001">
+            <field name="name">Republica Pelé</field>
+            <field name="address">Rua Princesa Isabel, 523</field>
+            <field name="city">Campinas</field>
+            <field name="CEP">25652-857</field>
+            <field name="phone">19 3268-8957</field>
+            <field name="delivery_fee">4</field>
+            <field name="main_contact">23423</field>
+        </record>
+    </data>
+</odoo>
